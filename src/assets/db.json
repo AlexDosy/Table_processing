@@ -1,0 +1,122 @@
+[
+  {
+    "userId": "krish",
+    "jobTitle": "Developer",
+    "firstName": "Krish",
+    "lastName": "Lee",
+    "employeeCode": "E1",
+    "region": "CA",
+    "phoneNumber": "123456",
+    "emailAddress": "krish.lee@learningcontainer.com"
+  },
+  {
+    "userId": "devid",
+    "jobTitle": "Developer",
+    "firstName": "Devid",
+    "lastName": "Rome",
+    "employeeCode": "E2",
+    "region": "CA",
+    "phoneNumber": "1111111",
+    "emailAddress": "devid.rome@learningcontainer.com"
+  },
+  {
+    "userId": "tin",
+    "jobTitle": "Program Directory",
+    "firstName": "tin",
+    "lastName": "jonson",
+    "employeeCode": "E3",
+    "region": "CA",
+    "phoneNumber": "2222222",
+    "emailAddress": "tin.jonson@learningcontainer.com"
+  },
+  {
+    "userId": "tikkn",
+    "jobTitle": "Program Directory",
+    "firstName": "jhekin",
+    "lastName": "jonson",
+    "employeeCode": "E3",
+    "region": "CA",
+    "phoneNumber": "2222223432",
+    "emailAddress": "tin.jonson@learningcontainer.com"
+  },
+  {
+    "userId": "tlcein",
+    "jobTitle": "Program Directory",
+    "firstName": "geiwin",
+    "lastName": "jonson",
+    "employeeCode": "E3",
+    "region": "CA",
+    "phoneNumber": "22223443222",
+    "emailAddress": "tin.jonson@learningcontainer.com"
+  },
+  {
+    "userId": "tiemmemn",
+    "jobTitle": "Program Directory",
+    "firstName": "ukjein",
+    "lastName": "jonson",
+    "employeeCode": "E3",
+    "region": "CA",
+    "phoneNumber": "22222372222",
+    "emailAddress": "tin.jonson@learningcontainer.com"
+  },
+  {
+    "userId": "nhjeke",
+    "jobTitle": "Program Directory",
+    "firstName": "hin",
+    "lastName": "jonson",
+    "employeeCode": "E3",
+    "region": "CA",
+    "phoneNumber": "2222432222",
+    "emailAddress": "tin.jonson@learningcontainer.com"
+  },
+  {
+    "userId": "thjkin",
+    "jobTitle": "Program Directory",
+    "firstName": "tin",
+    "lastName": "jonson",
+    "employeeCode": "E3",
+    "region": "CA",
+    "phoneNumber": "22232422222",
+    "emailAddress": "tin.jonson@learningcontainer.com"
+  },
+  {
+    "userId": "hweiwtin",
+    "jobTitle": "Program Directory",
+    "firstName": "tin",
+    "lastName": "jonson",
+    "employeeCode": "E3",
+    "region": "CA",
+    "phoneNumber": "2234322222",
+    "emailAddress": "tin.jonson@learningcontainer.com"
+  },
+  {
+    "userId": "detin",
+    "jobTitle": "Program Directory",
+    "firstName": "tin",
+    "lastName": "jonson",
+    "employeeCode": "E3",
+    "region": "CA",
+    "phoneNumber": "222221222",
+    "emailAddress": "tin.jonson@learningcontainer.com"
+  },
+  {
+    "userId": "tdedain",
+    "jobTitle": "Program Directory",
+    "firstName": "tin",
+    "lastName": "jonson",
+    "employeeCode": "E3",
+    "region": "CA",
+    "phoneNumber": "222232222",
+    "emailAddress": "tin.jonson@learningcontainer.com"
+  },
+  {
+    "userId": "deeetin",
+    "jobTitle": "Program Director",
+    "firstName": "tin",
+    "lastName": "jonson",
+    "employeeCode": "E3",
+    "region": "CA",
+    "phoneNumber": "221222222",
+    "emailAddress": "tin.jonson@learningcontainer.com"
+  }
+]

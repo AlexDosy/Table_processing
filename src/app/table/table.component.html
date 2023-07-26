@@ -1,0 +1,44 @@
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+
+
+
+<input type="text" class="form-control mb-3" [(ngModel)]="filterValue" placeholder="Filter">
+
+<table class="table table-striped">
+  <thead class="thead-dark">
+    <tr>
+      <th>userId</th>
+      <th>jobTitle</th>
+      <th>firstName</th>
+      <th>lastName</th>
+      <th>employeeCode</th>
+      <th>region</th>
+      <th>phoneNumber</th>
+      <th>emailAddress</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let column of tableData | filter: filterValue">
+      <td>{{ column.userId }}</td>
+      <td>{{ column.jobTitle }}</td>
+      <td>{{ column.firstName }}</td>
+      <td>{{ column.lastName }}</td>
+      <td>{{ column.employeeCode }}</td>
+      <td>{{ column.region }}</td>
+      <td>{{ column.phoneNumber }}</td>
+      <td>{{ column.emailAddress }}</td>
+    </tr>
+    <tr *ngFor="let data of tableData">
+      <td>{{ data.userId }}</td>
+      <td>{{ data.jobTitle }}</td>
+      <td>{{ data.firstName }}</td>
+      <td>{{ data.lastName }}</td>
+      <td>{{ data.employeeCode }}</td>
+      <td>{{ data.region }}</td>
+      <td>{{ data.phoneNumber }}</td>
+      <td>{{ data.emailAddress }}</td>
+      </tr>
+  </tbody>
+</table>
